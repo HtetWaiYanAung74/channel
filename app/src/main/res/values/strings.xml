@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DChannel</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_register">Register</string>
+    <string name="register_info">Don\'t have account? <font color="blue"><b>Sign Up</b></font>!</string>
+    <string name="get_code">Get Code</string>
+    <string name="edt_hint_phone_number">Phone Number</string>
+    <string name="edt_hint_name">Name</string>
+    <string name="edt_hint_email">Email</string>
+    <string name="edt_hint_deliver_address">Deliver Address</string>
+    <string name="edt_hint_township">Township</string>
+    <string name="edt_hint_shop_name">Shop Name</string>
+    <string name="edt_hint_password">Password</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="edt_hint_city">City</string>
+
+    <string name="alert_title_offline">You are offline</string>
+    <string name="alert_msg_offline">It seems there is a problem with your connection. Please check your network and try again</string>
+    <string name="alert_dismiss">Dismiss</string>
+    <string name="loading">Loading</string>
+    <string name="login">LOG IN</string>
+</resources>
